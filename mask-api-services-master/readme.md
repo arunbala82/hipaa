@@ -42,4 +42,4 @@ Should yield output of:
 ```
 
 
-Notes: Please refer docs folder for project documentation, install steps and test case results. A copy of runnable JAR file is placed under deploy folder.
+Notes: Please refer docs folder for project documentation, install steps and test case results under root folder. A copy of runnable JAR file is placed under deploy folder under root folder.
